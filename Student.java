@@ -18,4 +18,3 @@ public class Student implements Comparable<Student>{
 		 return name + " " + score;
 	}
 }
-
